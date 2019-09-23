@@ -1,6 +1,6 @@
 # ML_workshop_sept_23
 1. Step 1:
-* Installing the Dependencies for getting start
+* Installing the Dependencies for getting started
 2. Step 2:
 * Download the dataset from the Github Repository and Load .
 3. Step 3:
